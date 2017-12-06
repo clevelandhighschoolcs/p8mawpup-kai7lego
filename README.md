@@ -2,7 +2,7 @@
 This is a Project for my IB CS class at Cleveland High School
 
 ## Installation
-1. Download & install Python 2.7
+1. Download & install Python 2.7.14
 2. Open a command prompt (Windows key + r, then type cmd.exe)
 3. Go to C:\Pyhton27\Scripts and pip install virtualenv and BeatutifulSoup4
 ![capture](https://user-images.githubusercontent.com/19613036/33689093-f3e81454-da92-11e7-9094-090e10f55d4a.PNG)
