@@ -12,3 +12,11 @@ This is a Project for my IB CS class at Cleveland High School
 ![capture2](https://user-images.githubusercontent.com/19613036/33689585-eab0af0c-da94-11e7-9d8c-fb4a5cc698c3.PNG)
 6. In the command prompt type "weather.py" and run the program.
 ![capture3](https://user-images.githubusercontent.com/19613036/33689594-f136b83a-da94-11e7-9226-bc2dad025b37.PNG)
+
+
+
+###Tutorials I Used
+BeautifulSoup4:
+https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+Keyboard Input:
+https://www.python-course.eu/input.php
