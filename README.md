@@ -15,8 +15,8 @@ This is a Project for my IB CS class at Cleveland High School
 
 
 
-###Tutorials I Used
-BeautifulSoup4:
+##Tutorials I Used
+- BeautifulSoup4:
 https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
-Keyboard Input:
+- Keyboard Input:
 https://www.python-course.eu/input.php
